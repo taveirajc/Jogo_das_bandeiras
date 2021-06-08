@@ -1,0 +1,36 @@
+c:\users\taveira\documents\visual studio 2012\Projects\Jogo das Bandeiras\Jogo das Bandeiras\bin\Debug\Jogo das Bandeiras.exe.config
+c:\Users\taveira\Documents\Visual Studio 2012\Projects\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo_das_Bandeiras.Form1.resources
+c:\Users\taveira\Documents\Visual Studio 2012\Projects\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo_das_Bandeiras.Properties.Resources.resources
+c:\Users\taveira\Documents\Visual Studio 2012\Projects\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo das Bandeiras.csproj.GenerateResource.Cache
+c:\Users\taveira\Documents\Visual Studio 2012\Projects\Jogo das Bandeiras\Jogo das Bandeiras\bin\Debug\Jogo das Bandeiras.exe
+c:\Users\taveira\Documents\Visual Studio 2012\Projects\Jogo das Bandeiras\Jogo das Bandeiras\bin\Debug\Jogo das Bandeiras.pdb
+c:\Users\taveira\Documents\Visual Studio 2012\Projects\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo das Bandeiras.exe
+c:\Users\taveira\Documents\Visual Studio 2012\Projects\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo das Bandeiras.pdb
+C:\Users\taveira\documents\visual studio 2012\Projects\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo das Bandeiras.csprojResolveAssemblyReference.cache
+C:\Users\taveira\Desktop\Jogo das Bandeiras\Jogo das Bandeiras\bin\Debug\Jogo das Bandeiras.exe.config
+C:\Users\taveira\Desktop\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo das Bandeiras.exe
+C:\Users\taveira\Desktop\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo das Bandeiras.pdb
+C:\Users\taveira\Desktop\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo_das_Bandeiras.Form1.resources
+C:\Users\taveira\Desktop\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo_das_Bandeiras.Properties.Resources.resources
+C:\Users\taveira\Desktop\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo das Bandeiras.csproj.GenerateResource.Cache
+C:\Users\taveira\Desktop\Jogo das Bandeiras\Jogo das Bandeiras\bin\Debug\Jogo das Bandeiras.exe
+C:\Users\taveira\Desktop\Jogo das Bandeiras\Jogo das Bandeiras\bin\Debug\Jogo das Bandeiras.pdb
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\bin\Debug\Jogo das Bandeiras.exe.config
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo das Bandeiras.exe
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo das Bandeiras.pdb
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\bin\Debug\Jogo das Bandeiras.exe
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\bin\Debug\Jogo das Bandeiras.pdb
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo das Bandeiras.csprojResolveAssemblyReference.cache
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo_das_Bandeiras.Form1.resources
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo_das_Bandeiras.Properties.Resources.resources
+C:\Users\taveira\Documents\Visual Studio 2012\Projects\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo das Bandeiras.csproj.GenerateResource.Cache
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo das Bandeiras.csprojAssemblyReference.cache
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo_das_Bandeiras.Form1.resources
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo_das_Bandeiras.Properties.Resources.resources
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo das Bandeiras.csproj.GenerateResource.cache
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo das Bandeiras.csproj.CoreCompileInputs.cache
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo das Bandeiras.exe
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\obj\Debug\Jogo das Bandeiras.pdb
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\bin\Debug\Jogo das Bandeiras.exe.config
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\bin\Debug\Jogo das Bandeiras.exe
+D:\Projetos Visual Studio\FEITOS POR MIM\Jogo das Bandeiras\Jogo das Bandeiras\bin\Debug\Jogo das Bandeiras.pdb
